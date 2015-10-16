@@ -1,3 +1,19 @@
-a:link {
-  color: green;
+
+header {
+  background-color: skyblue;
+  background-size:cover;
+  font-family: Playball; cursive;
+  font-size: 40px;
+  padding-top: 50;
+  }
+a:hover {
+  background-color: white;
 }
+a:link{
+  color: green;
+  padding-right: 100px;
+padding-left: 100px;
+
+}
+a:visited{
+  color: black;
